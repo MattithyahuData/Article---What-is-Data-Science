@@ -4,7 +4,7 @@
 ### *"What is Data Science?"* is a straight forward question, but the answers can often be over complicated. 
 <br>
 
-<img src="images/data.jpg" width="700" height="500"/>
+<img src="images/data.jpg" width="900" height="500"/>
 
 Firstly, *what is data?*. A good way to understand something is to look at the origin, when did 'data' come into existence? 
 Data is essentially the information of things. From when people could first write, that was data being recorded. You remebering what you need to buy at the grocery story is a form of data storage. 
