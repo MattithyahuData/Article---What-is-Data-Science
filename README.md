@@ -2,10 +2,11 @@
 ### How does it affect our daily lives? 
 
 #### *"What is Data Science?"* is a straightforward question, but the answers can often be over complicated. 
-<br>
-<br>
 
 <img src="images/data1.jpg"/>
+
+<br>
+<br>
 
 Firstly, *what is data?*. A good way to understand something is to look at the origin, when did 'data' come into existence? 
 Data is essentially the information of things, from your name and height, to remembering a person’s birthday.  
