@@ -1,6 +1,8 @@
 # **What is Data Science**
 
-<img src="images/data.jpg"/>
+<img src="images/data.jpg" width="200" height="150"/>
+
+FIX IMAGE SIZE!!!!
 
 
 * When most of us think of data, maybe we think of complex computer storage, millions maybe trillions of numebrs and digits. 
