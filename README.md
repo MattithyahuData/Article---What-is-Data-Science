@@ -1,7 +1,9 @@
 ## **What is Data Science**
 ### How does it affect our daily lives? 
 
-### *"What is Data Science?"* is a straight forward question, but the answers can often be over complicated. 
+
+<h3> *"What is Data Science?"* is a straight forward question, but the answers can often be over complicated. </h3>
+
 <br>
 
 <img src="images/data1.jpg"/>
